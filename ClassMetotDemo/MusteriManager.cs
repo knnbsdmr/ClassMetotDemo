@@ -13,7 +13,7 @@ namespace ClassMetotDemo
 
         public void Sil(Musteri musteri)
         {
-            Console.WriteLine("{0} {1} müşterisi silindi.");
+            Console.WriteLine("{0} {1} müşterisi silindi."); 
         }
     }
 }
